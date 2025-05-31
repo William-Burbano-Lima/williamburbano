@@ -31,7 +31,8 @@ Soy un profesional apasionado por la tecnología aplicada a la producción agrí
 ## 📚 Formación
 
 - Bootcamp Talento Tech – Análisis de Datos y Programación
-- Ingeniero Electrónico – Universidad XYZ
+- Ingeniero Electrónico – Universidad UNIVERSIDAD NACIONAL DE COLOMBIA
+  SEDE MANIZALES
 
 ---
 
